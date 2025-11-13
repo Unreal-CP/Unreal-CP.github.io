@@ -1,3 +1,15 @@
+---
+title: Lyra-GameFeature
+description: Lyra-GameFeature
+author: cotes
+date: 2025-10-21 23:33:00 +0800
+categories: [Lyra,GameFeatures]
+tags: [ue,Lyra]
+pin: true
+math: true
+mermaid: true
+---
+
 # GameFeature_Action
 ## ApplyFrontendPerfSettingsAction
 `(Source\LyraGame\UI\Frontend)`
